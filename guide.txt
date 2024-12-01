@@ -1,0 +1,20 @@
+web site will have a:
+- navbar
+- introductory section with img and txt
+- photo gallery dinamic with grid layout
+- modal to showcase photos in detail
+- 'buy plans and subs' section
+
+APROACH:
+- create resp navbar component showing logo and links
+- create starting section with a big picture, title, and some text
+- use react to make a grid where we show off pics
+- part of the website that tells what people can buy and btn to get a plans
+- style the shit out of it with css (tailwind here)
+
+Dependecies extra:
+react-router-dom
+react-images
+
+3 components to start:
+navbar - introduction - photogallery
